@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyRtdServer", "MyRtdServer\MyRtdServer.csproj", "{58724604-8DEC-4558-983F-3C942187F09F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58724604-8DEC-4558-983F-3C942187F09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58724604-8DEC-4558-983F-3C942187F09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58724604-8DEC-4558-983F-3C942187F09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58724604-8DEC-4558-983F-3C942187F09F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {984A0677-D4D6-46AF-BA12-D7C894C47F18}
+	EndGlobalSection
+EndGlobal
